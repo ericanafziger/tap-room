@@ -14,7 +14,7 @@ This app is build with AngularJS and allows users to add and remove kegs from a 
 
 ## Technologies Used
 
-*_HTML, Sass, AngularJS, TypeScript_*
+*_HTML, Sass, AngularJS, TypeScript, Materialize_*
 
 ## Known Bugs
 There are no known bugs at this time.
