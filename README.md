@@ -3,8 +3,7 @@
 ### By Erica Nafziger and Bill Klinkow
 
 ## Description
-This app is build with AngularJS and allows users to add and remove kegs from a master list. Beer can be 'served' in either pint or growler quantities and the app live updates how much is left in each keg. Once the keg is finished it is added to the 'Kegs on Order' list.
-
+This app is build with AngularJS and allows users to add and remove kegs from a master list. Beer can be 'served' in either pint or growler quantities and the app will update in real time with how much is beer is left in each keg. Once the keg is finished it is added to the 'Kegs on Order' list. Each keg can be edited or deleted. New kegs can also be added to the master list. 
 
 ## View Project 
 * Clone repo from github
